@@ -64,8 +64,6 @@ Status used in design- In both fsm uart TX and RX containg following 5 states-
 - DONE
 
 
-## Contact
-Created by [@teekamkhandelwal] - feel free to contact me!
 
 ## Refrence
 [1] FIFO- https://github.com/teekamkhandelwal/Verilog_based_some_application_projects/tree/main/syncronous_fifo
